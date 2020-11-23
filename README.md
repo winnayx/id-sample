@@ -37,8 +37,8 @@ STRIPE_WEBHOOK_SECRET=<replace-with-your-webhook-secret>
 
 **3. Install and run:**
 ```
-npm install
-npm start
+yarn install
+yarn start (which runs nodemon now)
 ```
 
 **4. [Optional] Run a webhook locally:**
